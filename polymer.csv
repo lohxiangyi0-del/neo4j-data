@@ -1,0 +1,28 @@
+﻿polymer_id,polymer_type_standardized,full name,common products,density (g/cm3),health concern level,health concern reason,detected in human body,detected in blood
+POLY_001,PE,Polyethylene,"Plastic bags, Bottles, Food film",0.91,Medium,Hormone disruption,TRUE,TRUE
+POLY_002,HDPE,High-Density Polyethylene,"Milk jugs, Cutting boards, Pipes",0.95,Medium,Hormone disruption ,TRUE,FALSE
+POLY_003,LDPE,Low-Density Polyethylene,"Cling wrap, Bottles, Food packaging",0.92,Medium,Hormone disruption,TRUE,TRUE
+POLY_004,PP,Polypropylene,"Food containers, Bottle caps, Straws",0.9,Medium,"Inflammation, oxidative stress",TRUE,TRUE
+POLY_005,PET,Polyethylene Terephthalate,"Plastic bottles, Food trays, Synthetic fabrics",1.38,Medium,Antimony leaching,TRUE,TRUE
+POLY_006,PS,Polystyrene,"Styrofoam cups, Disposable cutlery, Food containers",1.05,High,Styrene monomer,TRUE,TRUE
+POLY_007,EPS,Expanded Polystyrene,"Foam food packaging, Insulation cups",0.05,High,Styrene monomer,FALSE,FALSE
+POLY_008,PVC,Polyvinyl Chloride,"PVC pipes, Food-grade tubing, Cling film",1.38,High,Endocrine disruptors,TRUE,FALSE
+POLY_009,PA,Polyamide,"Nylon bags, Food packaging, Zip locks",1.14,Low,Generally low toxicity,TRUE,FALSE
+POLY_010,PU,Polyurethane,"Food sealants, Foam packaging, Coatings",1.2,Medium,Respiratory irritants,TRUE,FALSE
+POLY_011,PC,Polycarbonate,"Bottles, Food containers, Lenses",1.2,Medium,Endocrine disruptor,TRUE,FALSE
+POLY_012,PMMA,Polymethyl Methacrylate,"Food container lids, Aquarium equipment",1.18,Low,Generally low toxicity,TRUE,FALSE
+POLY_013,POM,Polyoxymethylene,"Food-grade gears, Food processor parts",1.41,Low,Generally low toxicity,TRUE,FALSE
+POLY_014,ABS,Acrylonitrile Butadiene Styrene,"Food processor parts, Kitchen appliances",1.05,Medium,Styrene and acrylonitrile leaching,FALSE,FALSE
+POLY_015,PTFE,Polytetrafluoroethylene,"Non-stick cookware, Food processor parts",2.2,Low,Inert,FALSE,FALSE
+POLY_016,PES,Polyethersulfone,Filtration membranes,1.37,Low,Generally low toxicity,FALSE,FALSE
+POLY_017,PBS,Polybutylene Succinate,Biodegradable food packaging,1.26,Low,Biodegradable,FALSE,FALSE
+POLY_018,PSF,Polysulfone,Water treatment membranes,1.24,Low,Generally low toxicity,FALSE,FALSE
+POLY_019,EVA,Ethylene Vinyl Acetate,"Food packaging film, Hot melt adhesives",0.95,Low,Generally low toxicity,TRUE,FALSE
+POLY_020,PAN,Polyacrylonitrile,"Synthetic fibers, Food packaging",1.18,Medium,Acrylonitrile,FALSE,FALSE
+POLY_021,PBT,Polybutylene Terephthalate,"Food packaging, Textile fibers",1.31,Low,Generally low toxicity,TRUE,FALSE
+POLY_022,CPE,Chlorinated Polyethylene,Weathering-resistant food packaging,1.15,High,Chlorine release,TRUE,FALSE
+POLY_023,PVOH,Polyvinyl Alcohol,Water-soluble food packaging,1.27,Low,Generally low toxicity,TRUE,FALSE
+POLY_024,PVA,Polyvinyl Acetate,Adhesives in food packaging,1.19,Low,Generally low toxicity,TRUE,FALSE
+POLY_025,CA,Cellulose Acetate,"Cigarette filters, Food packaging film",1.3,Low,Generally low toxicity,FALSE,FALSE
+POLY_026,PEEK,Polyether Ether Ketone,High-temperature food processing equipment,1.32,Low,Generally low toxicity,FALSE,FALSE
+POLY_027,PEI,Polyetherimide,Food processor parts,1.27,Low,Generally low toxicity,FALSE,FALSE
