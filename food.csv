@@ -1,17 +1,17 @@
 ﻿food_beverage_id,food_item,food_category,sample_preparation,particle_number_numeric,size_range_um_standardized,polymer_type_standardized,detection_method_standardized
 FW_0001,Anchovy (S. indicus),Marine animal origin,"Digestion: 10% KOH (60°C, 24 h)",0.07,115–210 µm,PE,Optical microscopy
-FW_0002,"Anchovy (S. waitei - Dried),",Marine animal origin,"Digestion: 10% KOH (40°C, 72 h); density separation: 4.4 M NaI (ρ = 1.5 g/mL)",0.43,1–1000 µm,PE,Optical microscopy
-FW_0003,Barracuda (S. jello),Marine animal origin,"Digestion: 10% KOH (40°C, 48 h)",5.66,Not Reported,UNKNOWN,Optical microscopy
-FW_0004,Barracuda (S. putnamiae),Marine animal origin,"Digestion: 30% H2O2 (65°C, 24–48 h)",0,Not Reported,UNKNOWN,Optical microscopy
-FW_0005,Bartail flathead (P. indicus),Marine animal origin,"Digestion: 10% KOH (40°C, 48 h)",18.5,Not Reported,UNKNOWN,Optical microscopy
-FW_0006,Bartail flathead (P. indicus),Marine animal origin,"Digestion: 10% KOH (40°C, 48 h)",0.179,Fibers 50–8000 µm Fragments <500 µm,UNKNOWN,Optical microscopy
-FW_0007,Bartail flathead (P. indicus),Marine animal origin,"Digestion: 30% H2O2 (65°C, 24–48 h)",0,Not Reported,UNKNOWN,Optical microscopy
-FW_0008,Belanger’s croaker (J. belangerii - Dried),Marine animal origin,"Digestion: 10% KOH (40°C, 72 h); density separation: 4.4 M NaI (ρ = 1.5 g/mL)",0.3,1–1000 µm,PP,Optical microscopy
-FW_0009,Bream (A. spinifer),Marine animal origin,"Digestion: 30% H2O2 (65°C, 24–48 h)",0,Not Reported,UNKNOWN,Optical microscopy
-FW_0010,Brown shrimp (C. crangon),Marine animal origin,"Digestion: HNO3:HClO4 4:1 v:v ((80°C, 10 min + 30 min cooling time) * 2)",1.23,200–1000 µm,UNKNOWN,Optical microscopy
-FW_0011,Canned sardines and sprats,Marine animal origin,"Digestion: 10% KOH (40°C, 72 h); density separation: NaI solution",0.01,190–3800 µm,PP,Optical microscopy
-FW_0012,Chinese razor clam (S. constricta),Marine animal origin,"Digestion: 30% H2O2 (80 rpm, 65°C, 24–48 h); density separation: NaCl solution",2.1,5–5000 µm,PE,Optical microscopy
-FW_0013,Chinese razor clam (S. constricta),Marine animal origin,"Digestion: 10% KOH + 30% H2O2 (60°C, 24 h)",1.8,74–2000 µm,UNKNOWN,Optical microscopy
+FW_0002,"Anchovy (S. waitei - Dried),",Marine animal origin,"Digestion: 10% KOH (40°C, 72 h); density separation: 4.4 M NaI (ρ = 1.5 g/mL)",0.43,1–1000 µm,HDPE,Optical microscopy
+FW_0003,Barracuda (S. jello),Marine animal origin,"Digestion: 10% KOH (40°C, 48 h)",5.66,Not Reported,LDPE,Optical microscopy
+FW_0004,Barracuda (S. putnamiae),Marine animal origin,"Digestion: 30% H2O2 (65°C, 24–48 h)",0,Not Reported,PP,Optical microscopy
+FW_0005,Bartail flathead (P. indicus),Marine animal origin,"Digestion: 10% KOH (40°C, 48 h)",18.5,Not Reported,PET,Optical microscopy
+FW_0006,Bartail flathead (P. indicus),Marine animal origin,"Digestion: 10% KOH (40°C, 48 h)",0.179,Fibers 50–8000 µm Fragments <500 µm,PS,Optical microscopy
+FW_0007,Bartail flathead (P. indicus),Marine animal origin,"Digestion: 30% H2O2 (65°C, 24–48 h)",0,Not Reported,EPS,Optical microscopy
+FW_0008,Belanger’s croaker (J. belangerii - Dried),Marine animal origin,"Digestion: 10% KOH (40°C, 72 h); density separation: 4.4 M NaI (ρ = 1.5 g/mL)",0.3,1–1000 µm,PVC,Optical microscopy
+FW_0009,Bream (A. spinifer),Marine animal origin,"Digestion: 30% H2O2 (65°C, 24–48 h)",0,Not Reported,PA,Optical microscopy
+FW_0010,Brown shrimp (C. crangon),Marine animal origin,"Digestion: HNO3:HClO4 4:1 v:v ((80°C, 10 min + 30 min cooling time) * 2)",1.23,200–1000 µm,PU,Optical microscopy
+FW_0011,Canned sardines and sprats,Marine animal origin,"Digestion: 10% KOH (40°C, 72 h); density separation: NaI solution",0.01,190–3800 µm,PC,Optical microscopy
+FW_0012,Chinese razor clam (S. constricta),Marine animal origin,"Digestion: 30% H2O2 (80 rpm, 65°C, 24–48 h); density separation: NaCl solution",2.1,5–5000 µm,PMMA,Optical microscopy
+FW_0013,Chinese razor clam (S. constricta),Marine animal origin,"Digestion: 10% KOH + 30% H2O2 (60°C, 24 h)",1.8,74–2000 µm,POM,Optical microscopy
 FW_0014,"Clam (A. crenata, M. tokyoensis)",Marine animal origin,"Digestion: 10% KOH (300 rpm, 60°C, 24 h); density separation: saturated saline solution (ρ = 1.2 g/mL)",0.17,170 –9730 µm,PA,Optical microscopy
 FW_0015,Crab (C. opilio),Marine animal origin,"Digestion: 10% KOH (300 rpm, 60°C, 24 h); density separation: saturated saline solution (ρ = 1.2 g/mL)",0.17,171 –9730 µm,PA,Optical microscopy
 FW_0016,Shrimp (P. borealis),Marine animal origin,"Digestion: 10% KOH (300 rpm, 60°C, 24 h); density separation: saturated saline solution (ρ = 1.2 g/mL)",0.17,172 –9730 µm,PA,Optical microscopy
